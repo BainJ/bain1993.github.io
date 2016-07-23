@@ -6,9 +6,9 @@
 </description>
     <link>http://blog.lucasgatsas.ch/</link>
     <atom:link href="http://blog.lucasgatsas.ch/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Apr 2016 23:31:54 +0200</pubDate>
-    <lastBuildDate>Wed, 06 Apr 2016 23:31:54 +0200</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
+    <pubDate>Sat, 23 Jul 2016 10:27:46 +0800</pubDate>
+    <lastBuildDate>Sat, 23 Jul 2016 10:27:46 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
     
       <item>
         <title>Javascript Array</title>
@@ -55,7 +55,7 @@
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Sun, 13 Mar 2016 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 13 Mar 2016 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/starthack-switzerland-1.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/starthack-switzerland-1.html</guid>
         
@@ -107,7 +107,7 @@
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Fri, 11 Mar 2016 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 11 Mar 2016 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/starthack-switzerland.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/starthack-switzerland.html</guid>
         
@@ -178,7 +178,7 @@
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Mon, 29 Feb 2016 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 29 Feb 2016 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/npm-bcrypt.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/npm-bcrypt.html</guid>
         
@@ -249,9 +249,9 @@
 When in doubt, use brute force.
 — Ken Thompson&lt;/blockquote&gt;
 </description>
-        <pubDate>Tue, 26 Jan 2016 00:00:00 +0100</pubDate>
-        <link>http://blog.lucasgatsas.ch/event/Implement-Passport.js-authentication-with-Sails.js.html</link>
-        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/Implement-Passport.js-authentication-with-Sails.js.html</guid>
+        <pubDate>Tue, 26 Jan 2016 00:00:00 +0800</pubDate>
+        <link>http://blog.lucasgatsas.ch/event/implement-passport-js-authentication-with-sails-js.html</link>
+        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/implement-passport-js-authentication-with-sails-js.html</guid>
         
         
       </item>
@@ -320,7 +320,7 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Wed, 13 Jan 2016 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 13 Jan 2016 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/nmap-mac-osx.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/nmap-mac-osx.html</guid>
         
@@ -388,7 +388,7 @@ When in doubt, use brute force.
 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 </description>
-        <pubDate>Sun, 10 Jan 2016 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 10 Jan 2016 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/angular-2.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/angular-2.html</guid>
         
@@ -459,9 +459,9 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Sun, 18 Oct 2015 00:00:00 +0200</pubDate>
-        <link>http://blog.lucasgatsas.ch/event/gem-npm-ruby-gems-node.js.html</link>
-        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/gem-npm-ruby-gems-node.js.html</guid>
+        <pubDate>Sun, 18 Oct 2015 00:00:00 +0800</pubDate>
+        <link>http://blog.lucasgatsas.ch/event/gem-npm-ruby-gems-node-js.html</link>
+        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/gem-npm-ruby-gems-node-js.html</guid>
         
         
       </item>
@@ -530,9 +530,9 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Tue, 06 Oct 2015 00:00:00 +0200</pubDate>
-        <link>http://blog.lucasgatsas.ch/event/sails.js-sudo-sails-lfit-via-port-80-local.js.html</link>
-        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/sails.js-sudo-sails-lfit-via-port-80-local.js.html</guid>
+        <pubDate>Tue, 06 Oct 2015 00:00:00 +0800</pubDate>
+        <link>http://blog.lucasgatsas.ch/event/sails-js-sudo-sails-lfit-via-port-80-local-js.html</link>
+        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/sails-js-sudo-sails-lfit-via-port-80-local-js.html</guid>
         
         
       </item>
@@ -601,7 +601,7 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Wed, 30 Sep 2015 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 30 Sep 2015 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/raspberrypi-set-up-macosx-vnc-ssh.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/raspberrypi-set-up-macosx-vnc-ssh.html</guid>
         
@@ -672,9 +672,9 @@ When in doubt, use brute force.
 
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Thu, 23 Jul 2015 00:00:00 +0200</pubDate>
-        <link>http://blog.lucasgatsas.ch/event/angular.js-framework.html</link>
-        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/angular.js-framework.html</guid>
+        <pubDate>Thu, 23 Jul 2015 00:00:00 +0800</pubDate>
+        <link>http://blog.lucasgatsas.ch/event/angular-js-framework.html</link>
+        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/angular-js-framework.html</guid>
         
         
       </item>
@@ -744,9 +744,9 @@ When in doubt, use brute force.
 
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Tue, 07 Jul 2015 00:00:00 +0200</pubDate>
-        <link>http://blog.lucasgatsas.ch/event/mongoDB-database-for-scalability-performance-Agility.html</link>
-        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/mongoDB-database-for-scalability-performance-Agility.html</guid>
+        <pubDate>Tue, 07 Jul 2015 00:00:00 +0800</pubDate>
+        <link>http://blog.lucasgatsas.ch/event/mongodb-database-for-scalability-performance-agility.html</link>
+        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/mongodb-database-for-scalability-performance-agility.html</guid>
         
         
       </item>
@@ -815,9 +815,9 @@ When in doubt, use brute force.
     &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Thu, 04 Jun 2015 00:00:00 +0200</pubDate>
-        <link>http://blog.lucasgatsas.ch/event/npm.js.html</link>
-        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/npm.js.html</guid>
+        <pubDate>Thu, 04 Jun 2015 00:00:00 +0800</pubDate>
+        <link>http://blog.lucasgatsas.ch/event/npm-js.html</link>
+        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/npm-js.html</guid>
         
         
       </item>
@@ -883,7 +883,7 @@ When in doubt, use brute force.
 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 </description>
-        <pubDate>Mon, 01 Jun 2015 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 01 Jun 2015 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/htaccess-404-cpanel.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/htaccess-404-cpanel.html</guid>
         
@@ -955,7 +955,7 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Mon, 18 May 2015 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 18 May 2015 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/openssl-nginx-server-linux.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/openssl-nginx-server-linux.html</guid>
         
@@ -1027,9 +1027,9 @@ When in doubt, use brute force.
 
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Sun, 10 May 2015 00:00:00 +0200</pubDate>
-        <link>http://blog.lucasgatsas.ch/event/reboot-chmodo+rx-volumes-macintosh-hd-c-terminal-bash-for-everyone-change.html</link>
-        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/reboot-chmodo+rx-volumes-macintosh-hd-c-terminal-bash-for-everyone-change.html</guid>
+        <pubDate>Sun, 10 May 2015 00:00:00 +0800</pubDate>
+        <link>http://blog.lucasgatsas.ch/event/reboot-chmodo-rx-volumes-macintosh-hd-c-terminal-bash-for-everyone-change.html</link>
+        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/reboot-chmodo-rx-volumes-macintosh-hd-c-terminal-bash-for-everyone-change.html</guid>
         
         
       </item>
@@ -1098,7 +1098,7 @@ When in doubt, use brute force.
 	&quot;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Thu, 26 Mar 2015 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 26 Mar 2015 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/get-emacs-on-your-machine.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/get-emacs-on-your-machine.html</guid>
         
@@ -1169,7 +1169,7 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Sat, 21 Mar 2015 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 21 Mar 2015 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/nginx-set-up-unix-sysadmin-linux-digital-ocean.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/nginx-set-up-unix-sysadmin-linux-digital-ocean.html</guid>
         
@@ -1240,7 +1240,7 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Fri, 20 Mar 2015 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 20 Mar 2015 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/git-install.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/git-install.html</guid>
         
@@ -1313,9 +1313,9 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Tue, 03 Mar 2015 00:00:00 +0100</pubDate>
-        <link>http://blog.lucasgatsas.ch/event/node.js.html</link>
-        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/node.js.html</guid>
+        <pubDate>Tue, 03 Mar 2015 00:00:00 +0800</pubDate>
+        <link>http://blog.lucasgatsas.ch/event/node-js.html</link>
+        <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/node-js.html</guid>
         
         
       </item>
@@ -1396,7 +1396,7 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Tue, 03 Mar 2015 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 03 Mar 2015 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/dns-cname.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/dns-cname.html</guid>
         
@@ -1446,7 +1446,7 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Tue, 03 Mar 2015 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 03 Mar 2015 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/bcrypt.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/bcrypt.html</guid>
         
@@ -1459,7 +1459,7 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Thu, 29 Jan 2015 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 29 Jan 2015 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/ssh-key-on-mac-osx.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/ssh-key-on-mac-osx.html</guid>
         
@@ -1546,7 +1546,7 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Sun, 18 Jan 2015 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 18 Jan 2015 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/iptables-to-run-your-app-via-port-80-ubuntu.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/iptables-to-run-your-app-via-port-80-ubuntu.html</guid>
         
@@ -1619,7 +1619,7 @@ When in doubt, use brute force.
 
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Sun, 11 Jan 2015 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 11 Jan 2015 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/setup-sailsjs.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/setup-sailsjs.html</guid>
         
@@ -1690,7 +1690,7 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Mon, 13 Oct 2014 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 13 Oct 2014 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/dns-github.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/dns-github.html</guid>
         
@@ -1758,7 +1758,7 @@ When in doubt, use brute force.
 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 </description>
-        <pubDate>Tue, 02 Jul 2013 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 02 Jul 2013 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/install-laravel-on-xampp-mamp.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/install-laravel-on-xampp-mamp.html</guid>
         
@@ -1829,7 +1829,7 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Tue, 11 Jun 2013 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 11 Jun 2013 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/user-is-not-in-the-sudoers-file-this-incident-will-be-reported.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/user-is-not-in-the-sudoers-file-this-incident-will-be-reported.html</guid>
         
@@ -1900,7 +1900,7 @@ When in doubt, use brute force.
     &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Thu, 13 Jan 2011 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 13 Jan 2011 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/terminal-osx.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/terminal-osx.html</guid>
         
@@ -1971,7 +1971,7 @@ When in doubt, use brute force.
 &quot;Learn &amp;amp; Understand how Machine Works!&quot;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Tue, 14 Sep 2010 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 14 Sep 2010 00:00:00 +0800</pubDate>
         <link>http://blog.lucasgatsas.ch/event/want-to-know-power-commandsline.html</link>
         <guid isPermaLink="true">http://blog.lucasgatsas.ch/event/want-to-know-power-commandsline.html</guid>
         
