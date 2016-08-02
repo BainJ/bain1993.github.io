@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Open SSL on a Nginx Linux Server"
-cover: "img/clode.jpg"
+cover: "img/1.jpg"
 date:   2015-05-18
 start_time: "10:00"
 
@@ -13,48 +13,20 @@ organiser: "Lucas Gatsas"
 
 ---
 
+![1](http://ob4cs1azs.bkt.clouddn.com/1.jpg)
+![2](http://ob4cs1azs.bkt.clouddn.com/2.jpg)
+![3](http://ob4cs1azs.bkt.clouddn.com/3.jpg)
+![4](http://ob4cs1azs.bkt.clouddn.com/4.jpg)
+![4.1](http://ob4cs1azs.bkt.clouddn.com/4.1.jpg)
+![5](http://ob4cs1azs.bkt.clouddn.com/5.jpg)
+![6](http://ob4cs1azs.bkt.clouddn.com/6.jpg)
+![7](http://ob4cs1azs.bkt.clouddn.com/7.jpg)
+![8](http://ob4cs1azs.bkt.clouddn.com/8.jpg)
+![9](http://ob4cs1azs.bkt.clouddn.com/9.jpg)
+![10](http://ob4cs1azs.bkt.clouddn.com/10.jpg)
+![11](http://ob4cs1azs.bkt.clouddn.com/11.png)
 
 
-{% highlight ruby linenos %}
-// integer
-      var test = 1;
-      // float
-      var floatWert = 1023.23345489;
-      // NuN
-      var geteiltDurchZwei = 42 / 2;
-      if (isNaN(geteiltDurchZwei)) {
-          document.write("ungültige Number <br>");
-      } else {
-        document.write("geteiltdurchZwei; "  + geteiltDurchZwei + "<br>")
-      }
-{% endhighlight %}
-
-{% highlight ruby linenos %}
-// string
-      var eineZeichenkette = "meineZeichenkette";
-      var eineZeichenketteEins = "ist Toll";
-      document.write(eineZeichenkette + " " + eineZeichenketteEins + "<br>");
-{% endhighlight %}
-
-{% highlight ruby linenos %}
-// Boolean  (Ja = 1 / Nein = 0 )
-    var boolscherWert = true;
-    if (boolscherWert == 1) {
-      document.write("boolscherWert ist 1 <br>");
-    }
-{% endhighlight %}
-
-{% highlight ruby linenos %}
-// array / Liste
-      var meinArray = [1, 2, 3, "test", 12.34];
-      document.write("element: " + meinArray [0] + "<br>");
-{% endhighlight %}
-
-{% highlight ruby linenos %}
-// associative array
-  var person = { name: "Lucas", alter: 30  };
-  document.write (person ["name"] + "<br>" + ["alter"]);
-{% endhighlight %}
 
 
 
