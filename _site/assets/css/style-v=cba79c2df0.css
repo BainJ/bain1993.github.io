@@ -367,7 +367,7 @@ textarea {
 }
 
 body {
-	background-color:#101010;
+	background-color:#fff;
 	color: #666;
 	line-height: 1.66667;
 }
@@ -890,7 +890,7 @@ pre .storage {
  */
 
 .site-header {
-	background-color: #1A1A1A;
+	background-color: #fff;
 	padding-bottom: 25px;
 	padding-top: 25px;
 }
