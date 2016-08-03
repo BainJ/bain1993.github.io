@@ -11,20 +11,20 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Amokläufer
+title: 雷蛙设计
 #What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
 event_label: Events
 
 description: > # "
-  Lucas Gatsas, is a Web -Developer, Front -End Engineer & UI/UX Designer based in  St. Gallen, Switerland.
+  雷蛙设计
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.lucasgatsas.ch" # the base hostname & protocol for your site
+url: "http://bainj.me" # the base hostname & protocol for your site
 
 #These settings might be able to go?
-author: Lucas Gatsas
-twitter_username: lucasgatsas
-github_username:  spaceg
-company_name: lucasgatsas
+author: BainJ
+twitter_username: ""
+github_username:  Reewoow
+company_name: Reewoow
 
 # Build settings
 markdown: kramdown
